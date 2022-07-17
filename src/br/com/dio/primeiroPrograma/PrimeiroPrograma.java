@@ -1,4 +1,4 @@
-package br.com.dio;
+package br.com.dio.primeiroPrograma;
 
 import br.com.dio.model.Gato;
 
