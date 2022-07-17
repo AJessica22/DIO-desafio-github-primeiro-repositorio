@@ -23,5 +23,6 @@ public class ex4ArrayMultidimensional {
             }
             System.out.println(" ");
         }
+        System.out.println(M[2][2]);
     }
 }

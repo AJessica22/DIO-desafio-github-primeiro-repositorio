@@ -1,4 +1,4 @@
-package br.com.dio.ex1metodos;
+package br.com.dio.metodos.ex1metodos;
 
 import java.util.Calendar;
 import java.util.Scanner;

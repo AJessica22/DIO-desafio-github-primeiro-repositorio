@@ -1,4 +1,4 @@
-package br.com.dio.ex2metodos;
+package br.com.dio.metodos.ex2metodos;
 
 import java.util.Scanner;
 
